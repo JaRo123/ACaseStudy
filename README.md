@@ -1,4 +1,4 @@
-# A CaseStudy
+# A Case Study
 # -*- coding: utf-8 -*-
 """
 Created on Fri Mar 27 17:20:24 2020
