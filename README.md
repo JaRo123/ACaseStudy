@@ -5,8 +5,6 @@ Created on Fri Mar 27 17:20:24 2020
 @author: Javad Roostaei
 Email: j.roostaei@gmail.com
 """
-# from https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
-
 # set the work directory if needed
 import os  
 print("Current Working Directory " , os.getcwd())
